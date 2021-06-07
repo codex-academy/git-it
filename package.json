@@ -26,6 +26,7 @@
     "url": "https://github.com/jlord/git-it/issues"
   },
   "dependencies": {
+    "cheerio": "~0.17.0",
     "concat-stream": "~1.2.1",
     "ecstatic": "^0.5.4",
     "github-oauth": "0.0.4",
@@ -33,7 +34,7 @@
     "handlebars": "^2.0.0-alpha.4",
     "marked": "^0.3.2",
     "request": "~2.74.0",
-    "workshopper-jlord": "^0.0.6",
-    "cheerio": "~0.17.0"
-  }
+    "workshopper-jlord": "^0.0.6"
+  },
+  "devDependencies": {}
 }
